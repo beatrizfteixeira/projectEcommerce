@@ -2,22 +2,20 @@
 
 
 
-Clone  the repository: 
+Clone the repository:
 ```
 git clone https://github.com/beatrizfteixeira/projectEcommerce.git
 ```
-Instale o MongoDB Compass ;)
+Install MongoDB Compass ;)
 ```
 https://www.mongodb.com/try/download/compass
 ```
-Abra a pasta projectEcommerce. Aguarde até que sua IDE carregue as dependências.
+Open the projectEcommerce folder. Wait for your IDE to load the dependencies.
 
-Abra o mongoDB e cole o link de conexão com o Cluster para criar uma nova conexão.
+Open mongoDB and paste the Cluster connection link to create a new connection.
 ```
 mongodb+srv://biaft03:OMZ3qk36VmMXQrVW@cluster0.celdgqs.mongodb.net/
 ```
-Volte na pasta projectEcommerce e execute o arquivo Main.java
+Go back to the projectEcommerce folder and run the Main.java file located in the path /src/main/java/org/example/Main.java
 
-Faça operações CRUD com produtos e veja as atualizações por meio do Mongo DB Compass.
-
-
+Do CRUD operations with products and see updates through Mongo DB Compass.
