@@ -4,7 +4,7 @@
 
 Clone  the repository: 
 ```
-git clone : https://github.com/Eduardo-Muller/Desafio_Pokemon/
+git clone : https://github.com/beatrizfteixeira/projectEcommerce.git
 ```
 Instale o MongoDB Compass ;)
 ```
